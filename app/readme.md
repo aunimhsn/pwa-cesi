@@ -6,3 +6,4 @@ https://developer.chrome.com/docs/workbox/modules/workbox-sw/
 
 ## Easy server launch with node
 npx serve
+
